@@ -2,8 +2,8 @@
 Hello, my name is Julian. I'm a Software Engineering Student at Surcolombiana University, and a keen developer. I'm passionate about understanding the reason for the existence of a whole. My objective is to reach wide knowledge on Software Architectures. My strongest skills are in Spring and the Java ecosystem.
 
 ## Tech Stack
-![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-000000.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-ecd453.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-ecd453.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white)
