@@ -4,6 +4,7 @@ Hello, my name is Julian. I'm a Software Engineering Student at Surcolombiana Un
 ## Tech Stack
 ![Java](https://img.shields.io/badge/java-ecd453.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-ecd453.svg?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -13,9 +14,7 @@ Hello, my name is Julian. I'm a Software Engineering Student at Surcolombiana Un
 ![React](https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
 ## Currently learning
-![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-000000.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
