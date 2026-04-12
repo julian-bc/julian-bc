@@ -8,5 +8,5 @@ Hello my name is Julian, I'm Software Engineering Student at Surcolombiana Unive
 
 ## Currently learning
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,kafka,rabbitmq,githubactions,dotnet,cs,opencv,tensorflow" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws,kafka,rabbitmq,githubactions,cs,opencv,tensorflow" height="40" />
 </p>
