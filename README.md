@@ -3,7 +3,7 @@ Hello my name is Julian, I'm Software Engineering Student at Surcolombiana Unive
 
 ## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,express,react,java,ts,py,mysql,postgres,mongodb,docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,express,react,py,mysql,postgres,mongodb,docker" height="40" />
 </p>
 
 ## Currently learning
