@@ -6,9 +6,7 @@ The pinned repositories on my profile represent the projects, laboratories, and 
 
 ## Currently Learning
 I'm currently strengthening and expanding my knowledge in:
-- Spring Cloud — reinforcing microservices and distributed systems concepts
-- Spring Batch — learning batch processing and job management
+- Node.js — reinforcing and expanding my knowledge.
 - Spring WebFlux — learning reactive programming and non-blocking applications
 - Microsoft Azure — learning cloud services and deployment
 - GitHub Actions — learning CI/CD and workflow automation
-- Machine Learning — exploring machine learning concepts and practical implementations
